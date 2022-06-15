@@ -46,7 +46,7 @@
       а также развитие побочного лесопользования и заготовка второстепенных лесных ресурсов. 
     </p>
     <br>
-    <img src="http://vasles.by/images/news2021/12/struktura4.jpg" srcset="">
+    <img src="./img/structure.jpg">
 
     <div>
       <h2>Контактные данные: </h2>
